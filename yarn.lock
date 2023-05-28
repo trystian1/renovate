@@ -2535,12 +2535,12 @@
   resolved "https://registry.yarnpkg.com/@renovatebot/pep440/-/pep440-2.1.13.tgz#d630989b6abf9dd001edc526cf3e821450e6e45d"
   integrity sha512-PFnG9X7on77Gp9FPdossWfvDL6QTg1MafZP3hdKafo3n6SP89wiyZmjFVaQwlRlE5cEmZQwh11dE8Oos9H2paw==
 
-"@renovatebot/ruby-semver@2.1.7":
-  version "2.1.7"
-  resolved "https://registry.yarnpkg.com/@renovatebot/ruby-semver/-/ruby-semver-2.1.7.tgz#6e466c212ddd70b3e9db72a86a5c9909a2434c69"
-  integrity sha512-JV6IlSfgZEF5Vmi5Uwvr/QHlNZXLojzBLg6gScuE2bFx3qNyagnKzHJ/AuA3ir7/EFTHqHQK7XRUa0ddlN9ihA==
+"@renovatebot/ruby-semver@2.1.12":
+  version "2.1.12"
+  resolved "https://registry.yarnpkg.com/@renovatebot/ruby-semver/-/ruby-semver-2.1.12.tgz#001ae01d3576336e5865fdae5970d9cb89241167"
+  integrity sha512-9j42JmVRqDmdeEauCcMCRyvy3NA7z7ftuVUkUhB98NU1HUwmxiz1OExgPvxeNRIW/MryNXvUvPNT9dfDT75anw==
   dependencies:
-    tslib "^2.4.1"
+    tslib "^2.5.0"
 
 "@seald-io/binary-search-tree@^1.0.3":
   version "1.0.3"
@@ -9953,10 +9953,15 @@ tslib@^1.11.1, tslib@^1.13.0, tslib@^1.8.1:
   resolved "https://registry.yarnpkg.com/tslib/-/tslib-1.14.1.tgz#cf2d38bdc34a134bcaf1091c41f6619e2f672d00"
   integrity sha512-Xni35NKzjgMrwevysHTCArtLDpPvye8zV/0E4EyYn43P7/7qvQwPh9BGkHewbMulVntbigmcT7rdX3BNo9wRJg==
 
-tslib@^2.1.0, tslib@^2.3.1, tslib@^2.4.0, tslib@^2.4.1:
+tslib@^2.1.0, tslib@^2.3.1, tslib@^2.4.0:
   version "2.4.1"
   resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.4.1.tgz#0d0bfbaac2880b91e22df0768e55be9753a5b17e"
   integrity sha512-tGyy4dAjRIEwI7BzsB0lynWgOpfqjUdq91XXAlIWD2OwKBH7oCl/GZG/HT4BOHrTlPMOASlMQ7veyTqpmRcrNA==
+
+tslib@^2.5.0:
+  version "2.5.2"
+  resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.5.2.tgz#1b6f07185c881557b0ffa84b111a0106989e8338"
+  integrity sha512-5svOrSA2w3iGFDs1HibEVBGbDrAY82bFQ3HZ3ixB+88nsbsWQoKqDRb5UBYAUPEzbBn6dAp5gRNXglySbx1MlA==
 
 tsutils@^3.21.0:
   version "3.21.0"
